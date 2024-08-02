@@ -1,5 +1,6 @@
 ```
-The work on Notification Service is Still pending as the RabbitMQ Implementation will be completed Shortly
+The work on Notification Service is Still pending as the RabbitMQ Implementation will be
+completed Shortly
 ```
 
 This is a base node js project template, which anyone can use as it has been prepared, by keeping some of the most important code principles and project management recommendations. Feel free to change anything.
