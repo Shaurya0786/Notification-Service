@@ -8,4 +8,5 @@ module.exports = {
     Port: process.env.Port,
     Emailpass:process.env.EMAIL_PASS,
     Email:process.env.EMAIL,
+    ProcessQueue : process.env.ProcessQueue
 }
